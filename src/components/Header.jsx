@@ -18,14 +18,14 @@ function Header() {
         </a>
 
         <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center gap-x-10">
-          <a className="mr-5 hover:text-gray-900 text-lg cursor-pointer">Home</a>
-          <a className="mr-5 hover:text-gray-900 text-lg cursor-pointer">Product</a>
-          <a className="mr-5 hover:text-gray-900 text-lg cursor-pointer">Promo</a>
-          <a className="mr-5 hover:text-gray-900 text-lg cursor-pointer">About</a>
-          <a className="mr-5 hover:text-gray-900 text-lg cursor-pointer">Contact</a>
+          <a className="mr-5 hover:text-yellow-500 text-lg cursor-pointer">Home</a>
+          <a className="mr-5 hover:text-yellow-500 text-lg cursor-pointer">Product</a>
+          <a className="mr-5 hover:text-yellow-500 text-lg cursor-pointer">Promo</a>
+          <a className="mr-5 hover:text-yellow-500 text-lg cursor-pointer">About</a>
+          <a className="mr-5 hover:text-yellow-500 text-lg cursor-pointer">Contact</a>
         </nav>
 
-        <button className="inline-flex items-center border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 cursor-pointer">
+        <button className="inline-flex items-center border-0 py-1 px-3 focus:outline-none hover:bg-yellow-500 rounded text-base mt-4 md:mt-0 cursor-pointer">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
